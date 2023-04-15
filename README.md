@@ -18,3 +18,6 @@ Convert all Oizo's NFT to an "Unfinished title" in .wav
 
 - Python 3.9
 - ffmpeg required
+
+## Run
+`py script.py`
