@@ -1,4 +1,5 @@
 import os
+# maxVal equals to number of Oizo's 8BEB NFTs +1 (there is currently 33 NFTs)
 maxVal = 34
 
 def dwl():
