@@ -23,7 +23,7 @@ Convert all Oizo's 8BIT_ERIC_BOING NFT to an "Unfinished title" in .wav
 `py script.py`
 
 ## WAV Output
-`unfinished1.vac`
+`unfinished1.wav`
 
 ## Is there more Oizo's NFTs on 8BEB collection ?
 If there is new NFTs on [8BEB collection](https://foundation.app/collection/eightb) from Oizo. Just record some new num.wav into the `num/` folder, and modify the maxVal in script.py !
