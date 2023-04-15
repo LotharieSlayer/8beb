@@ -26,7 +26,9 @@ Convert all Oizo's 8BIT_ERIC_BOING NFT to an "Unfinished title" in .wav
 You have the `.als` Ableton project with a rack into the `als/` folder !
 
 ## WAV Output
-`unfinished1.wav`
+`unfinished1.wav` after running script.py. <br/>
+Listen last render on Soundcloud here : https://on.soundcloud.com/ERN7R
+
 
 ## Is there more Oizo's NFTs on 8BEB collection ?
 If there is new NFTs on [8BEB collection](https://foundation.app/collection/eightb) from Oizo. Just record some new num.wav into the `num/` folder, and modify the maxVal in script.py !
