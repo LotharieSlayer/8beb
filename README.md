@@ -22,6 +22,9 @@ Convert all Oizo's 8BIT_ERIC_BOING NFT to an "Unfinished title" in .wav
 ## Run
 `py script.py`
 
+## Processing voices
+You have the Ableton project with a rack into the `als/` folder !
+
 ## WAV Output
 `unfinished1.wav`
 
