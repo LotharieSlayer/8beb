@@ -21,3 +21,6 @@ Convert all Oizo's 8BIT_ERIC_BOING NFT to an "Unfinished title" in .wav
 
 ## Run
 `py script.py`
+
+## WAV Output
+`unfinished1.vac`
