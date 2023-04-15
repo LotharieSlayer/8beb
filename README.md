@@ -1,6 +1,6 @@
 # 8beb
 
-Convert all Oizo's NFT to an "Unfinished title" in .wav
+Convert all Oizo's 8BIT_ERIC_BOING NFT to an "Unfinished title" in .wav
 
 <table>
   <tr>
